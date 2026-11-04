@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Find Temp</title>
+    <style>
+              body{
+            text-align: center;
+            font-family: 'Times New Roman', Times, serif;
+            font-size: xx-large;
+            background-image: url('pic.jpg');
+            background-repeat: no-repeat;
+       
+            background-attachment: fixed;     
+            height: 100vh;
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            background-size: 1800px 1000px;
+        }
+    </style>
+</head>
+<body>
+    <h2>Weather Checker</h2>
+    <form action="result.php" method="POST">
+        <hs>
+        <label  for="city"><b>Enter City</b></label>
+        <input  type="text" id="city" name="city" required>
+        </hs><br>
+        <button type="submit"><b>get temp</b></button>
+    </form>
+</body>
+</html> 
