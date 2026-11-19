@@ -11,5 +11,6 @@ A lightweight Flask web app using the Gemini API.
 
 Fetches city temperature and other details using an API with a Python backend and HTML, CSS, and PHP frontend[cite: 3].
 
-### Screenshot
+![Api_Find_Data Screenshot 1](Api_Find_Data/pic.jpg)
+![Api_Find_Data Screenshot 2](Api_Find_Data/pic1.jpg)
 
