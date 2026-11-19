@@ -13,4 +13,3 @@ Fetches city temperature and other details using an API with a Python backend an
 
 ### Screenshot
 
-![Api_Find_Data Screenshot](Api_Find_Data/pic.jpg)
